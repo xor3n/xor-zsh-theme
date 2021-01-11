@@ -1,6 +1,14 @@
 # xor-zsh-theme
 xor without the 3n: a minimalistic and feature-poor zsh theme
 
+![](https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/screenshots/Screenshot%20from%202021-01-12%2000-25-10.png)
+![](https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/screenshots/Screenshot%20from%202021-01-12%2000-25-43.png)
+![](https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/screenshots/Screenshot%20from%202021-01-12%2000-28-00.png)
+
+font: terminus
+
+colors: tomorrow-night
+
 # Installation
 If you use the oh-my-zsh zsh framework, you can simply run `git clone https://github.com/xor3n/xor-zsh-theme.git; cd xor-zsh-theme; cp xor.zsh-theme /home/$USERS/.oh-my-zsh/custom/themes/`.
 
