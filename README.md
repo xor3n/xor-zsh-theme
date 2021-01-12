@@ -17,18 +17,21 @@ This is a new project so expect this list to get longer in some time.
 
 
 
+
 add a variation where the current directory isn't shown if you are in the home directory
 
 more colors
 
 make the git prompt info thing look cool(er)
 
-add a gif of this readme
+add a gif to this readme
 
-think of a RPROMPT that doesn't say something stupid like "take your meds schizo, t. hostname"
+think of a better RPROMPT that doesn't say something stupid like "take your meds schizo, t. hostname"
 
 make this readme better
 
-add contributing guidelines
+add contributing guidelines (implying anyone will help me)
 
 *maybe* add the ZSH_THEME_GIT_PROMPT_DIRTY and ZSH_THEME_GIT_PROMPT_CLEAN info thing if i can get it to not look stupid
+
+the "››" arrow thing looks dumb with a lot of fonts so make a variant where it uses the "»" this thing or greater than symbol or
