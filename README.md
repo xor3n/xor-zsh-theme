@@ -1,6 +1,8 @@
 <h1 align="center">[xor]</h1>
 <p align="center">xor, a minimalistic and feature-poor zsh theme</p>
 
+
+
 ![](https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/preview/screenshot-1.png)
 ![](https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/preview/screenshot-2.png)
 ![](https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/preview/screenshot-3.png)
@@ -14,6 +16,7 @@ If you use the oh-my-zsh zsh framework, you can simply run `git clone https://gi
 
 # TODO
 correction: \*maybe\* todo
+
 
 
 more colors
