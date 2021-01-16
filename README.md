@@ -12,7 +12,7 @@ font: terminus
 ccolors: tomorrow-night
 
 # Installation
-If you use the oh-my-zsh zsh framework, you can simply run `git clone https://github.com/xor3n/xor-zsh-theme.git; cd xor-zsh-theme; cp xor.zsh-theme /home/$USERS/.oh-my-zsh/custom/themes/`, after that you can just set the ZSH_THEME in your .zshrc to "xor"
+If you use the oh-my-zsh zsh framework, you can simply run `curl https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/xor.zsh-theme -o /home/$USERS/.oh-my-zsh/custom/themes/xor.zsh-theme`, after that you can just set the ZSH_THEME in your .zshrc to "xor"
 
 # TODO
 correction: \*maybe\* todo
