@@ -23,12 +23,10 @@ more colors
 
 add a gif to this readme
 
-think of a better RPROMPT that doesn't say something stupid like "take your meds schizo, t. hostname"
+think of a better RPROMPT that doesn't say something stupid like "take your meds schizo, t. hostname" or add guide to customize it
 
 make this readme better
 
-add contributing guidelines (implying anyone even will)
-
-*maybe* add the ZSH_THEME_GIT_PROMPT_DIRTY and ZSH_THEME_GIT_PROMPT_CLEAN info thing if i can get it to not look stupid
+*maybe* add the ZSH_THEME_GIT_PROMPT_DIRTY and ZSH_THEME_GIT_PROMPT_CLEAN info thing if i can make it cool-looking
 
 the "››" arrow thing looks dumb with a lot of fonts so make a variant where it uses the "»" this thing or greater than symbol or something
