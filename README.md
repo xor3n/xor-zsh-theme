@@ -1,16 +1,6 @@
 <h1 align="center">[xor]</h1>
 <p align="center">xor, a minimalistic and feature-poor zsh theme</p>
 
-
-
-![](https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/preview/screenshot-1.png)
-![](https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/preview/screenshot-2.png)
-![](https://raw.githubusercontent.com/xor3n/xor-zsh-theme/main/preview/screenshot-3.png)
-
-font: Terminus
-
-colors: Tomorrow-Night
-
 # Installation
 If you use the oh-my-zsh zsh framework, you can simply run `git clone https://github.com/xor3n/xor-zsh-theme.git /home/$USER/.oh-my-zsh/custom/themes/xor-zsh-theme/`, after that you can just set the ZSH_THEME in your .zshrc to "xor-zsh-theme/xor"
 
